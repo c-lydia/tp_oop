@@ -6,18 +6,25 @@ public class Vehicle {
     int speed;
     int price;
 
-    // Constructor for Mr/Ms.AAA
+    // Constructor for Veasna
     Vehicle(int price) {
-    
+     this.price = price;
+     System.out.println(this.name +);   
+
     }
 
-    // method 1 for Mr/Ms.BBB
+    // method 1 for Ms.Sorphea
     void accelerate(int speed) {
 
     }
 
-    // method 2 for Mr/Ms.CCC
+    // method 2 for Ms.neath
     void stop() {
+
+    }
+
+    // method 3 for Ms.Sovanary
+    void decelerate(int speed) {
 
     }
 }
