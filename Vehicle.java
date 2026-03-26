@@ -9,7 +9,7 @@ public class Vehicle {
     // Constructor for Veasna
     Vehicle(int price) {
      this.price = price;
-     System.out.println(this.name +);   
+     System.out.println(this.name +"CONSTRACTOR.");   
 
     }
 
